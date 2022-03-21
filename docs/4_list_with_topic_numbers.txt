@@ -1,0 +1,48 @@
+topic id:1
+number of topic:8
+topic:1.11 Engineering culture
+summery :The most famous consumer electronics and computer companies were all founded by engineers. The problem with the “it doesn’t matter how it works” philosophy is that it makes people feel like they have to do everything. The CD player is a great product, but it’s not perfect. The first personal computers were designed by engineers.  Design is a skill that can be learned, but it’s not something youcan learn overnight. The remote control is a tool that allows you to do things in theremote. The team are audio/video experts and don’t represent the vast majority of DVD users. The Panasonic DVD remote control is a great product, but it’s not the best. The first step in solving a problem is to find the solution. 
+
+-------------------------
+topic id:2
+number of topic:8
+topic:1.12 Features v goals
+summery :The first returns to the topic of features, and how typically onsoftware projects we tend to focus on developing features rather thanhelping users achieve their goals. I’m not saying that you should never wash your clothes. Microsoft Word is a great tool, but it’s not the best. Google is eating Microsoft’s lunch in the word processing andspreadsheet market. The product is a good idea, but it’s not perfect. The most common reason for a startup to fail is that there was no market need for the product being developed. The problem with startups is that they are not about solving problems. The problem with the current state of the music industry is that it has no clear vision for what it wants to be.  The Pirate Bay is a site that allows people to download music illegally.  Spotify is a great start-up, but they need to do more. If you have a music library, and it’s not shared with your family orfriends, then you can use the iTunes app to manage that music.  Spotify is a great example of how to solve the problem.  Dropbox is a great solution for file sharing, but it’s not the best way to store files. The problem with Dropbox is that it’s not designed to solve the problems of its users.  Google Plus is a great idea, but it’s not solving any problems. 
+
+-------------------------
+topic id:3
+number of topic:8
+topic:1.13 Taking shortcuts
+summery :Software projects are a lot more complicated than they should be. The book is a great read, but it’s not the best. Software is a very complex and difficult thing to design.  P-PARS was a software project that never got off the ground.  The Irish health system is a mess.  the P-PARS project was a failure.  the hospital is a disaster. The report said that the school was not able to deliver a clear vision of what itwas supposed to achieve. The project was a disaster. The design was never finalised, and the business blueprintnever nailed down. I think there are two reasons that these shortcuts are taken sofrequently. Design is about understanding the problem and designing a solution to it. Don’t spend time on research and design. The second part of the argument is that it’s easier to build a solution than to design one. 
+
+-------------------------
+topic id:4
+number of topic:8
+topic:1.14 Low fidelity design
+summery :Design is a process of creating something that you want to use. 
+
+-------------------------
+topic id:5
+number of topic:8
+topic:1.15 Low fidelity design (continued)
+summery : BMW is creating clay models of every car it makes, and they’re not just making them for the sake of it. The car manufacturers are making a prototype of the product they want to make. The process of creating a high fidelity design is the same as that of making a prototype. Design is not a process.  Prototypes are a great way to test your app’s functionality and performance. The first thing you need to do is get a good idea of what the problem is. 
+
+-------------------------
+topic id:6
+number of topic:8
+topic:1.16 Failure to prioritise
+summery :The first use case is the one that we want our users to be able to open and send an email. If you’re using email software, make sure that it supports all the different use cases. Design for the most common use cases. I’m not sure if this is a good or bad thing, but I think it’s a great example of how to do things right.  I'm in Dublin Heuston.  Irish Rail is a terrible company. I’m not saying that we should always use the “best practice” of using a single interruptor. Searching for files on your PC is a bit like searching for pictures in the    gallery.  Microsoft is cluttering the search interface with all these features that nobody or only a tiny minority of people,will ever use. Search is a very powerful feature. If you want to use Hailo, it’s a good idea to give people the information they need.  I’m not a fan of the Hailo app. Don’t clutter your software with features that are not needed. 
+
+-------------------------
+topic id:7
+number of topic:8
+topic:1.17 Finding a design target
+summery : research is a process of gathering information about people, and then using that information to make decisions. We should be designing software that is designed for the people who use it. The problem with the “Colman” argument is that it doesn’t really address the real issue. The three things we need to learn about our customers are:1. 
+
+-------------------------
+topic id:8
+number of topic:8
+topic:1.18 Goals, behaviours and context
+summery :We’re going to create a new chair that is designed for the user who wantsto sit in it. The La-Z-Boy chair is a very successful and popularchair.  The Aeron chair is an office chair that’s used by people who are working in offices.  The chair is a great tool for helping you achieve your primary goals.  the Aeron chair is a great chair for office workers. I’m not sure if this is a good or bad thing.  The chair is a great idea, but it's not perfect.  I’m a chair.  I’m not sure what the heck is going on here.  I’m not a fan of the La-Z-Boy. If you’re designing interactive products, you must have a clear understanding of your users goals behaviours and context. The paradox of specificity is that the more specific you are,the less likely you are to be successful. 
+
+-------------------------
